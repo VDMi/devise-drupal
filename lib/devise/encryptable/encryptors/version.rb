@@ -1,7 +1,9 @@
+require "devise/encryptable/encryptors/base"
+
 module Devise
   module Encryptable
     module Encryptors
-      module DrupalHash
+      class DrupalHash < Base
         VERSION = "0.0.1"
       end
     end
