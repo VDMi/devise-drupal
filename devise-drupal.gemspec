@@ -1,5 +1,4 @@
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/devise/encryptable/encryptors/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ['Jeroen Bobbeldijk']
@@ -13,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = Dir['test/**/*.rb']
   gem.name          = 'devise-drupal'
   gem.require_paths = ['lib']
-  gem.version       = Devise::Encryptable::Encryptors::DrupalHash::VERSION
+  gem.version       = "0.0.1"
 
   gem.add_dependency 'devise-encryptable', '>= 0.1.2'
 end
