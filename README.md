@@ -30,6 +30,10 @@ end
 Add the encryptor to your initializor
 
 ```
+# This on top of your file:
+require Rails.root.join('lib', 'devise', 'encryptable', 'encryptors', 'drupal_hash')
+
+# This inside your "Devise.setup do |config|"
 config.encryptor = :drupal_hash
 ```
 
