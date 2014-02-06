@@ -9,4 +9,4 @@ gemfile:
   - gemfiles/Gemfile.rails-3.2.x
   - Gemfile
 notifications:
-  email: false
+  email: true
