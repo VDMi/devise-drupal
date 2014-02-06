@@ -5,7 +5,7 @@ Gem::Specification.new do |gem|
   gem.email         = 'jeroen@vdmi.nl'
   gem.description   = 'Drupal Hash implementation for Devise Encryptable'
   gem.summary       = 'Drupal Hash implementation for Devise Encryptable'
-  gem.homepage      = 'http://github.com/jerbob92/drupal'
+  gem.homepage      = 'https://github.com/jerbob92/devise-drupal'
   gem.license       = 'Apache 2.0'
 
   gem.files         = Dir['Changelog.md', 'LICENSE', 'README.md', 'lib/**/*']
