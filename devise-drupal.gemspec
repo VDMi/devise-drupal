@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.test_files    = Dir['test/**/*.rb']
   gem.name          = 'devise-drupal'
   gem.require_paths = ['lib']
-  gem.version       = "0.0.2"
+  gem.version       = "0.0.3"
 
   gem.add_dependency 'devise-encryptable', '>= 0.1.2'
 end

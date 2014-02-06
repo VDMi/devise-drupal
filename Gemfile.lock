@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    devise-drupal (0.0.1)
+    devise-drupal (0.0.3)
       devise-encryptable (>= 0.1.2)
 
 GEM
