@@ -50,5 +50,5 @@ And you're ready to go!
 
 ## License
 
-Apache License version 2. Copyright 2012-2014 .VDMi/ http://www.vdmi.nl
+GNU GENERAL PUBLIC LICENSE Version 2. Copyright 2012-2014 .VDMi/ http://www.vdmi.nl
 
