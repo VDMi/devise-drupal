@@ -1,6 +1,6 @@
 # Devise Drupal
 
-[![Build Status](https://travis-ci.org/jerbob92/devise-drupal.png?branch=master)](https://travis-ci.org/jerbob92/devise-drupal)
+[![Build Status](https://travis-ci.org/VDMi/devise-drupal.png?branch=master)](https://travis-ci.org/VDMi/devise-drupal)
 
 Drupal Hash implementation for Devise Encryptable.
 
